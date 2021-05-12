@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{362:function(n,e,t){"use strict";t.r(e);var l={head:function(){return{title:"Token Sale - Polygonum Online"}}},o=t(36),component=Object(o.a)(l,(function(){var n=this.$createElement;return(this._self._c||n)("div",{staticClass:"h100"})}),[],!1,null,null,null);e.default=component.exports}}]);
