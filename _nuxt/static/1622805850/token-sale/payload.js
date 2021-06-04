@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/token-sale", {data:[{}],fetch:{},mutations:[]});
